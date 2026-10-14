@@ -1,0 +1,20 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Node
+**/node_modules/
+**/dist/
+
+# .NET
+**/bin/
+**/obj/
+
+# IDE and OS
+.vs/
+.vscode/
+.DS_Store
+Thumbs.db
+# Local Git history backup
+spendwise-git-backup/
