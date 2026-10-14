@@ -59,3 +59,14 @@ Do not commit `.env` files, real credentials, or production secrets. Use environ
 ## Purpose
 
 Built as a portfolio project to demonstrate full-stack development, REST API design, authentication, relational data persistence, automated testing, and containerization.
+
+
+<img width="1194" height="616" alt="image" src="https://github.com/user-attachments/assets/bee2f11c-e244-487b-9d07-a556a961d494" />
+<img width="1202" height="612" alt="image" src="https://github.com/user-attachments/assets/44ac0239-2f36-4618-9ca4-42104019d352" />
+<img width="1233" height="6<img width="1234" height="622" alt="image" src="https://github.com/user-attachments/assets/2078acc7-d698-4b8d-bc8a-762a029fde8f" />
+01" alt="image" src="https://github.com/user-attachments/assets/4a11eb05-5960-46fa-a5b2-f33781202711" />
+<img width="1335" height="613" alt="image" src="https://github.com/user-attachments/assets/d16d0565-a187-4f1d-9a5b-2a948177be60" />
+
+
+
+
